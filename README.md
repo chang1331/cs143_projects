@@ -1,7 +1,5 @@
 # cs143_projects
 
-=====================================================
-
 ### How to use
 
 Just pull the required projects from the repo after cloning into it.
@@ -12,9 +10,11 @@ Just pull the required projects from the repo after cloning into it.
 
 Just change permissions to the bash script
 
-chmod +x scraper.sh
+`chmod +x scraper.sh`
 
-and then run it like: source scraper.sh
+and then run it like: 
+
+`source scraper.sh`
 
 This will update the github repo. 
 
