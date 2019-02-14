@@ -5,5 +5,5 @@ mv tmp/* ./
 git add --all >> logs.txt
 git commit -m "Updating files" >> logs.txt
 git push >> logs.txt
-rm -r tmp/ >> logs.txti
+rm -r tmp/ >> logs.txt
 mkdir tmp/
