@@ -312,3 +312,62 @@ Archive:  tmp/projIntro.zip
  create mode 100644 tmp/projIntro/grizzlypeakg.jpg
  create mode 100644 tmp/projIntro/grizzlypeakg.png
  create mode 100644 tmp/projIntro/pythonhighlight.sty
+[master c01d6f1] Updating files
+ 59 files changed, 61 insertions(+), 2939 deletions(-)
+ delete mode 100644 tmp/proj2/code/helpers.py
+ delete mode 100644 tmp/proj2/code/main.py
+ delete mode 100644 tmp/proj2/code/proj2_averageAccuracy.py
+ delete mode 100644 tmp/proj2/code/student.py
+ delete mode 100644 tmp/proj2/code/visualize.py
+ delete mode 100644 tmp/proj2/createSubmissionZip.py
+ delete mode 100644 tmp/proj2/data/EpiscopalGaudi/EGaudiEval.mat
+ delete mode 100644 tmp/proj2/data/EpiscopalGaudi/EGaudi_1.jpg
+ delete mode 100644 tmp/proj2/data/EpiscopalGaudi/EGaudi_2.jpg
+ delete mode 100644 tmp/proj2/data/MountRushmore/MountRushmoreEval.mat
+ delete mode 100644 tmp/proj2/data/MountRushmore/Mount_Rushmore1.jpg
+ delete mode 100644 tmp/proj2/data/MountRushmore/Mount_Rushmore2.jpg
+ delete mode 100644 tmp/proj2/data/NotreDame/NotreDame1.jpg
+ delete mode 100644 tmp/proj2/data/NotreDame/NotreDame2.jpg
+ delete mode 100644 tmp/proj2/data/NotreDame/NotreDameEval.mat
+ delete mode 100644 tmp/proj2/questions/Chase1.jpg
+ delete mode 100644 tmp/proj2/questions/Chase2.jpg
+ delete mode 100644 tmp/proj2/questions/JacksonGibbonsCrop.png
+ delete mode 100644 tmp/proj2/questions/LaddObservatory1.jpg
+ delete mode 100644 tmp/proj2/questions/LaddObservatory2.jpg
+ delete mode 100644 tmp/proj2/questions/Project2_Questions.tex
+ delete mode 100644 tmp/proj2/questions/RISHLibrary1.jpg
+ delete mode 100644 tmp/proj2/questions/RISHLibrary2.jpg
+ delete mode 100644 tmp/proj2/questions/YuanningHuCrop.png
+ delete mode 100644 tmp/proj2/questions/liveFFT2.py
+ delete mode 100644 tmp/proj2/questions/plot_corners.py
+ delete mode 100644 tmp/proj2/writeup/placeholder.jpg
+ delete mode 100644 tmp/proj2/writeup/pythonhighlight.sty
+ delete mode 100644 tmp/proj2/writeup/writeup.tex
+ delete mode 100644 tmp/projHybridImages/code/helpers.py
+ delete mode 100644 tmp/projHybridImages/code/proj1_part1.py
+ delete mode 100644 tmp/projHybridImages/code/proj1_part2.py
+ delete mode 100644 tmp/projHybridImages/createSubmissionZip.py
+ delete mode 100644 tmp/projHybridImages/data/bicycle.bmp
+ delete mode 100644 tmp/projHybridImages/data/bird.bmp
+ delete mode 100644 tmp/projHybridImages/data/cat.bmp
+ delete mode 100644 tmp/projHybridImages/data/dog.bmp
+ delete mode 100644 tmp/projHybridImages/data/einstein.bmp
+ delete mode 100644 tmp/projHybridImages/data/fish.bmp
+ delete mode 100644 tmp/projHybridImages/data/marilyn.bmp
+ delete mode 100644 tmp/projHybridImages/data/motorcycle.bmp
+ delete mode 100644 tmp/projHybridImages/data/plane.bmp
+ delete mode 100644 tmp/projHybridImages/data/submarine.bmp
+ delete mode 100644 tmp/projHybridImages/questions/Project1_QuestionsTemplate.tex
+ delete mode 100644 tmp/projHybridImages/questions/RISDance.jpg
+ delete mode 100644 tmp/projHybridImages/writeup/placeholder.jpg
+ delete mode 100644 tmp/projHybridImages/writeup/writeup.tex
+ delete mode 100644 tmp/projIntro/Project0_Template.tex
+ delete mode 100644 tmp/projIntro/Python_Tutorial.tex
+ delete mode 100644 tmp/projIntro/README
+ delete mode 100644 tmp/projIntro/VSCode_VenvCorrect.png
+ delete mode 100644 tmp/projIntro/VenvPath.png
+ delete mode 100644 tmp/projIntro/gigi.jpg
+ delete mode 100644 tmp/projIntro/grizzlypeak.jpg
+ delete mode 100644 tmp/projIntro/grizzlypeakg.jpg
+ delete mode 100644 tmp/projIntro/grizzlypeakg.png
+ delete mode 100644 tmp/projIntro/pythonhighlight.sty
