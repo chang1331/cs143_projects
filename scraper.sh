@@ -7,5 +7,5 @@ git add --all >> logs.txt
 git commit -m "Updating files" >> logs.txt
 git push >> logs.txt
 rm -r tmp/ >> logs.txti
-cp -r ./pro* $dir
+mv ./pro* $dir
 mkdir tmp/
