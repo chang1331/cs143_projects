@@ -252,3 +252,63 @@ Archive:  tmp/projIntro.zip
   inflating: tmp/projIntro/README    
   inflating: tmp/projIntro/VenvPath.png  
   inflating: tmp/projIntro/VSCode_VenvCorrect.png  
+[master a4f8959] Updating files
+ 59 files changed, 3070 insertions(+)
+ create mode 100644 logs.txti
+ create mode 100644 tmp/proj2/code/helpers.py
+ create mode 100644 tmp/proj2/code/main.py
+ create mode 100644 tmp/proj2/code/proj2_averageAccuracy.py
+ create mode 100644 tmp/proj2/code/student.py
+ create mode 100644 tmp/proj2/code/visualize.py
+ create mode 100644 tmp/proj2/createSubmissionZip.py
+ create mode 100644 tmp/proj2/data/EpiscopalGaudi/EGaudiEval.mat
+ create mode 100644 tmp/proj2/data/EpiscopalGaudi/EGaudi_1.jpg
+ create mode 100644 tmp/proj2/data/EpiscopalGaudi/EGaudi_2.jpg
+ create mode 100644 tmp/proj2/data/MountRushmore/MountRushmoreEval.mat
+ create mode 100644 tmp/proj2/data/MountRushmore/Mount_Rushmore1.jpg
+ create mode 100644 tmp/proj2/data/MountRushmore/Mount_Rushmore2.jpg
+ create mode 100644 tmp/proj2/data/NotreDame/NotreDame1.jpg
+ create mode 100644 tmp/proj2/data/NotreDame/NotreDame2.jpg
+ create mode 100644 tmp/proj2/data/NotreDame/NotreDameEval.mat
+ create mode 100644 tmp/proj2/questions/Chase1.jpg
+ create mode 100644 tmp/proj2/questions/Chase2.jpg
+ create mode 100644 tmp/proj2/questions/JacksonGibbonsCrop.png
+ create mode 100644 tmp/proj2/questions/LaddObservatory1.jpg
+ create mode 100644 tmp/proj2/questions/LaddObservatory2.jpg
+ create mode 100644 tmp/proj2/questions/Project2_Questions.tex
+ create mode 100644 tmp/proj2/questions/RISHLibrary1.jpg
+ create mode 100644 tmp/proj2/questions/RISHLibrary2.jpg
+ create mode 100644 tmp/proj2/questions/YuanningHuCrop.png
+ create mode 100644 tmp/proj2/questions/liveFFT2.py
+ create mode 100644 tmp/proj2/questions/plot_corners.py
+ create mode 100644 tmp/proj2/writeup/placeholder.jpg
+ create mode 100644 tmp/proj2/writeup/pythonhighlight.sty
+ create mode 100644 tmp/proj2/writeup/writeup.tex
+ create mode 100644 tmp/projHybridImages/code/helpers.py
+ create mode 100644 tmp/projHybridImages/code/proj1_part1.py
+ create mode 100644 tmp/projHybridImages/code/proj1_part2.py
+ create mode 100644 tmp/projHybridImages/createSubmissionZip.py
+ create mode 100644 tmp/projHybridImages/data/bicycle.bmp
+ create mode 100644 tmp/projHybridImages/data/bird.bmp
+ create mode 100644 tmp/projHybridImages/data/cat.bmp
+ create mode 100644 tmp/projHybridImages/data/dog.bmp
+ create mode 100644 tmp/projHybridImages/data/einstein.bmp
+ create mode 100644 tmp/projHybridImages/data/fish.bmp
+ create mode 100644 tmp/projHybridImages/data/marilyn.bmp
+ create mode 100644 tmp/projHybridImages/data/motorcycle.bmp
+ create mode 100644 tmp/projHybridImages/data/plane.bmp
+ create mode 100644 tmp/projHybridImages/data/submarine.bmp
+ create mode 100644 tmp/projHybridImages/questions/Project1_QuestionsTemplate.tex
+ create mode 100644 tmp/projHybridImages/questions/RISDance.jpg
+ create mode 100644 tmp/projHybridImages/writeup/placeholder.jpg
+ create mode 100644 tmp/projHybridImages/writeup/writeup.tex
+ create mode 100644 tmp/projIntro/Project0_Template.tex
+ create mode 100644 tmp/projIntro/Python_Tutorial.tex
+ create mode 100644 tmp/projIntro/README
+ create mode 100644 tmp/projIntro/VSCode_VenvCorrect.png
+ create mode 100644 tmp/projIntro/VenvPath.png
+ create mode 100644 tmp/projIntro/gigi.jpg
+ create mode 100644 tmp/projIntro/grizzlypeak.jpg
+ create mode 100644 tmp/projIntro/grizzlypeakg.jpg
+ create mode 100644 tmp/projIntro/grizzlypeakg.png
+ create mode 100644 tmp/projIntro/pythonhighlight.sty
