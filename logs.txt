@@ -4871,3 +4871,78 @@ Archive:  tmp/projIntro.zip
  create mode 100644 projSceneRecBoW/writeup/placeholder.jpg
  create mode 100644 projSceneRecBoW/writeup/pythonhighlight.sty
  create mode 100644 projSceneRecBoW/writeup/writeup.tex
+[master beadb90] Updating files
+ 1 file changed, 4498 insertions(+)
+Archive:  tmp/proj2.zip
+   creating: tmp/proj2/code/
+  inflating: tmp/proj2/code/helpers.py  
+  inflating: tmp/proj2/code/main.py  
+  inflating: tmp/proj2/code/proj2_averageAccuracy.py  
+  inflating: tmp/proj2/code/student.py  
+  inflating: tmp/proj2/code/visualize.py  
+  inflating: tmp/proj2/createSubmissionZip.py  
+   creating: tmp/proj2/data/
+   creating: tmp/proj2/data/EpiscopalGaudi/
+ extracting: tmp/proj2/data/EpiscopalGaudi/EGaudiEval.mat  
+  inflating: tmp/proj2/data/EpiscopalGaudi/EGaudi_1.jpg  
+  inflating: tmp/proj2/data/EpiscopalGaudi/EGaudi_2.jpg  
+   creating: tmp/proj2/data/MountRushmore/
+  inflating: tmp/proj2/data/MountRushmore/MountRushmoreEval.mat  
+  inflating: tmp/proj2/data/MountRushmore/Mount_Rushmore1.jpg  
+  inflating: tmp/proj2/data/MountRushmore/Mount_Rushmore2.jpg  
+   creating: tmp/proj2/data/NotreDame/
+  inflating: tmp/proj2/data/NotreDame/NotreDame1.jpg  
+  inflating: tmp/proj2/data/NotreDame/NotreDame2.jpg  
+  inflating: tmp/proj2/data/NotreDame/NotreDameEval.mat  
+   creating: tmp/proj2/questions/
+  inflating: tmp/proj2/questions/Chase1.jpg  
+  inflating: tmp/proj2/questions/Chase2.jpg  
+  inflating: tmp/proj2/questions/JacksonGibbonsCrop.png  
+  inflating: tmp/proj2/questions/LaddObservatory1.jpg  
+  inflating: tmp/proj2/questions/LaddObservatory2.jpg  
+  inflating: tmp/proj2/questions/liveFFT2.py  
+  inflating: tmp/proj2/questions/plot_corners.py  
+  inflating: tmp/proj2/questions/Project2_Questions.tex  
+  inflating: tmp/proj2/questions/RISHLibrary1.jpg  
+  inflating: tmp/proj2/questions/RISHLibrary2.jpg  
+ extracting: tmp/proj2/questions/YuanningHuCrop.png  
+   creating: tmp/proj2/writeup/
+  inflating: tmp/proj2/writeup/placeholder.jpg  
+  inflating: tmp/proj2/writeup/pythonhighlight.sty  
+  inflating: tmp/proj2/writeup/writeup.tex  
+  inflating: tmp/proj2/code/memusecheck_proj2.py  
+Archive:  tmp/projHybridImages.zip
+   creating: tmp/projHybridImages/code/
+  inflating: tmp/projHybridImages/code/helpers.py  
+  inflating: tmp/projHybridImages/code/proj1_part1.py  
+  inflating: tmp/projHybridImages/code/proj1_part2.py  
+  inflating: tmp/projHybridImages/createSubmissionZip.py  
+   creating: tmp/projHybridImages/data/
+  inflating: tmp/projHybridImages/data/bicycle.bmp  
+  inflating: tmp/projHybridImages/data/bird.bmp  
+  inflating: tmp/projHybridImages/data/cat.bmp  
+  inflating: tmp/projHybridImages/data/dog.bmp  
+  inflating: tmp/projHybridImages/data/einstein.bmp  
+  inflating: tmp/projHybridImages/data/fish.bmp  
+  inflating: tmp/projHybridImages/data/marilyn.bmp  
+  inflating: tmp/projHybridImages/data/motorcycle.bmp  
+  inflating: tmp/projHybridImages/data/plane.bmp  
+  inflating: tmp/projHybridImages/data/submarine.bmp  
+   creating: tmp/projHybridImages/questions/
+  inflating: tmp/projHybridImages/questions/Project1_QuestionsTemplate.tex  
+  inflating: tmp/projHybridImages/questions/RISDance.jpg  
+   creating: tmp/projHybridImages/writeup/
+  inflating: tmp/projHybridImages/writeup/placeholder.jpg  
+  inflating: tmp/projHybridImages/writeup/writeup.tex  
+Archive:  tmp/projIntro.zip
+  inflating: tmp/projIntro/gigi.jpg  
+  inflating: tmp/projIntro/grizzlypeak.jpg  
+  inflating: tmp/projIntro/grizzlypeakg.jpg  
+ extracting: tmp/projIntro/grizzlypeakg.png  
+  inflating: tmp/projIntro/Project0_Template.tex  
+  inflating: tmp/projIntro/pythonhighlight.sty  
+  inflating: tmp/projIntro/Python_Tutorial.tex  
+  inflating: tmp/projIntro/README    
+  inflating: tmp/projIntro/VenvPath.png  
+  inflating: tmp/projIntro/VSCode_VenvCorrect.png  
+Archive:  tmp/projSceneRecBoW.zip
