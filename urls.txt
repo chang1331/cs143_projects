@@ -1,3 +1,4 @@
 https://cs.brown.edu/courses/csci1430/proj0/projIntro.zip
 https://cs.brown.edu/courses/csci1430/proj1/projHybridImages.zip
 https://cs.brown.edu/courses/csci1430/proj2/proj2.zip
+https://cs.brown.edu/courses/csci1430/proj3/projSceneRecBoW.zip
