@@ -10,7 +10,7 @@ for i in tmp/*.zip; do unzip "$i" -d "${i%%.zip}"; done
 
 # clean things up
 rm tmp/*.zip*
-rm projects/proj*
+rm -r projects/proj*
 mkdir -p projects/
 mv tmp/* ./projects/
 
