@@ -11,7 +11,7 @@ for i in tmp/*.zip; do unzip "$i" -d "${i%%.zip}"; done
 # clean things up
 rm tmp/*.zip*
 rm projects/proj*
-mkdir -P projects/
+mkdir -p projects/
 mv tmp/* ./projects/
 
 # push things to github
@@ -20,4 +20,4 @@ git push
 
 # clean up again
 rm -r tmp/
-mkdir -P tmp/
+mkdir -p tmp/
