@@ -1,11 +1,23 @@
-wget -i urls.txt -P tmp/ -q -a logs.txt
+#!/bin/bash
+
+# download and rename the files
+while IFS=' ' read -r url name; do
+    wget -O "$name" -a logs.txt "$url"
+done < urls.txt
+
+# unzip files
 for i in tmp/*.zip; do unzip "$i" -d "${i%%.zip}"; done
+
+# clean things up
 rm tmp/*.zip*
 rm projects/proj*
-mkdir projects/
+mkdir -P projects/
 mv tmp/* ./projects/
-git add --all 
-git commit -m "Updating files" 
+
+# push things to github
+git commit -am "Updating files" 
 git push 
+
+# clean up again
 rm -r tmp/
-mkdir tmp/
+mkdir -P tmp/
