@@ -125,9 +125,9 @@ Below, we provide pseudocode for a linear classifier. It trains a model on a tra
 # Please turn this into a multi-class classifier for k classes.
 # Inputs:
 #    As before, except
-#    train_labels: N x 1 array of class label integers from 0 to k as 
+#    train_labels: N x 1 array of class label integers from 0 to k-1
 # Outputs:
-#    A class label integer from 0 to k
+#    A class label integer from 0 to k-1
 #
 def classify(train_feats, train_labels, test_feat)
     # Train classification hyperplane

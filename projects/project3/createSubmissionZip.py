@@ -84,6 +84,12 @@ def main():
         # Write code .py files
         for file in get_all_file_paths( "code" + os.sep, ".py" ):
             zip.write( file )
+        # Write results_webpage index (PROJECT 3 SPECIFIC!!)
+        for file in get_all_file_paths( "code" + os.sep, ".html" ):
+            zip.write( file )
+        # Write confusion matrix png (ALSO PROJECT 3 SPECIFIC)
+        for file in get_all_file_paths( "code" + os.sep, ".png" ):
+            zip.write( file )
 
     # Done!
 

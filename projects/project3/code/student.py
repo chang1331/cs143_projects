@@ -171,7 +171,8 @@ def svm_classify(train_image_feats, train_labels, test_image_feats):
         for the corresponding image in test_image_feats
 
     We suggest you look at the sklearn.svm module, including the LinearSVC
-    class.
+    class. With the right arguments, you can get a 15-class SVM as described
+    above in just one call! Be sure to read the documentation carefully.
     '''
 
     # TODO: Implement this function!
