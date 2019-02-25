@@ -1,11 +1,11 @@
 # CSCI 1430 - james_tompkin@brown.edu
 #
-# Students, hark! 
+# Students, hark!
 # Run this script from this directory to create an appropriate zip file to submit to Gradescope.
 
 import os, zipfile, shutil
 
-# Function from https://stackoverflow.com/questions/1724693/find-a-file-in-python 
+# Function from https://stackoverflow.com/questions/1724693/find-a-file-in-python
 def find(name, path):
     for root, dirs, files in os.walk(path):
         if name in files:
@@ -13,21 +13,21 @@ def find(name, path):
 
 
 # Function adapted from https://www.geeksforgeeks.org/working-zip-files-python/
-def get_all_file_paths( directory, ext ): 
-  
-    # Initializing empty file paths list 
+def get_all_file_paths( directory, ext ):
+
+    # Initializing empty file paths list
     file_paths = []
-  
-    # Crawling through directory and subdirectories 
+
+    # Crawling through directory and subdirectories
     for root, directories, files in os.walk(directory):
         for filename in files:
             if filename.endswith(ext):
-                # Join the two strings in order to form the full filepath. 
+                # Join the two strings in order to form the full filepath.
                 filepath = os.path.join(root, filename)
-                file_paths.append(filepath) 
-  
-    # Returning all file paths 
-    return file_paths 
+                file_paths.append(filepath)
+
+    # Returning all file paths
+    return file_paths
 
 
 def main():
@@ -36,7 +36,7 @@ def main():
     # - Everything in 'code'
     # - writeup/writeup.pdf
 
-    # Some of you will end up in a pickle and run this 
+    # Some of you will end up in a pickle and run this
     # from the wrong directory.
     # So, let's work out whether we're in the right directory
     # to execute, e.g., one below 'code'
@@ -47,10 +47,10 @@ def main():
         print( 'Executing from the wrong directory; going up a directory...' )
         os.chdir('..')
 
-    # If we don't find this file (given the expected filename) in the current folder, 
+    # If we don't find this file (given the expected filename) in the current folder,
     # then we are clueless as to where we are.
     elif find( 'createSubmissionZip.py', curdir ) == None:
-        # We haven't found this file, and 
+        # We haven't found this file, and
         # any other potential place is too complex for us to track
         print( 'Are you sure you''re executing this script from the right place?' )
         print( 'Please make sure the python execution folder contains createSubimssionZip.py')
@@ -89,6 +89,9 @@ def main():
             zip.write( file )
         # Write confusion matrix png (ALSO PROJECT 3 SPECIFIC)
         for file in get_all_file_paths( "code" + os.sep, ".png" ):
+            zip.write( file )
+        # Write any .npy files (we expect at least one)
+        for file in get_all_file_paths( "code" + os.sep, ".npy" ):
             zip.write( file )
 
     # Done!
