@@ -15,7 +15,8 @@ mkdir -p projects/
 mv tmp/* ./projects/
 
 # push things to github
-git commit -am "Updating files" 
+git add -A 
+git commit -m "Updating files" 
 git push 
 
 # clean up again
