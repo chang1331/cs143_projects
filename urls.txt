@@ -3,3 +3,4 @@ https://cs.brown.edu/courses/csci1430/proj1/projHybridImages.zip tmp/project1.zi
 https://cs.brown.edu/courses/csci1430/proj2/proj2.zip tmp/project2.zip
 https://cs.brown.edu/courses/csci1430/proj3/projSceneRecBoW.zip tmp/project3.zip
 https://cs.brown.edu/courses/csci1430/proj4/proj4questions.zip tmp/project4.zip
+https://cs.brown.edu/courses/csci1430/proj4/projDeepLearning.zip
